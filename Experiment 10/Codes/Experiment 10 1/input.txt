@@ -1,0 +1,37 @@
+p The Catcher in the Rye J.D. Salinger
+h To Kill a Mockingbird Harper Lee
+b The Great Gatsby F. Scott Fitzgerald
+p 1984 George Orwell
+h Lord of the Flies William Golding
+h Mein Kamph Adolf Hitler
+p The Alchemist Paulo Coelho
+h The Hitchhiker's Guide to the Galaxy Douglas Adams
+b The Lord of the Rings J.R.R. Tolkien
+p The Picture of Dorian Gray Oscar Wilde
+h The Catcher in the Rye J.D. Salinger
+p The Great Gatsby F. Scott Fitzgerald
+h To Kill a Mockingbird Harper Lee
+b The Chronicles of Narnia C.S. Lewis
+p The Da Vinci Code Dan Brown
+h The Hobbit J.R.R. Tolkien
+b The Hunger Games Suzanne Collins
+p The Kite Runner Khaled Hosseini
+h The Adventures of Huckleberry Finn Mark Twain
+b The Bible Various Authors
+p The Girl with the Dragon Tattoo Stieg Larsson
+h The Shining Stephen King
+b The Stand Stephen King
+p The Fault in Our Stars John Green
+h The Road Cormac McCarthy
+b The Complete Works of William Shakespeare William Shakespeare
+p The Diary of a Young Girl Anne Frank
+h The Brothers Karamazov Fyodor Dostoevsky
+b The Complete Sherlock Holmes Arthur Conan Doyle
+p The Adventures of Tom Sawyer Mark Twain
+h The Picture of Dorian Gray Oscar Wilde
+b The Divine Comedy Dante Alighieri
+p The Stranger Albert Camus
+h The Sun Also Rises Ernest Hemingway
+b The Odyssey Homer
+p The Bell Jar Sylvia Plath
+h The Great Gatsby F. Scott Fitzgerald

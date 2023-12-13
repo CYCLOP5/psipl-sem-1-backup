@@ -1,0 +1,13 @@
+p The Catcher in the Rye J.D. Salinger
+p 1984 George Orwell
+p The Alchemist Paulo Coelho
+p The Picture of Dorian Gray Oscar Wilde
+p The Great Gatsby F. Scott Fitzgerald
+p The Da Vinci Code Dan Brown
+p The Kite Runner Khaled Hosseini
+p The Girl with the Dragon Tattoo Stieg Larsson
+p The Fault in Our Stars John Green
+p The Diary of a Young Girl Anne Frank
+p The Adventures of Tom Sawyer Mark Twain
+p The Stranger Albert Camus
+p The Bell Jar Sylvia Plath
